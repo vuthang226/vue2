@@ -1,0 +1,56 @@
+.btn-default{
+    height: 28px;
+    padding:0px 10px;
+    background: #fafafa;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+}
+.btn{
+    height: 25px;
+    padding:8px 10px;
+    background: #fafafa;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+    min-width: 70px;
+}
+.btn:hover, .btn-default:hover{
+    background: #e4f2ea;
+    border-color: #0072bc;
+}
+.btn:active, .btn-default:active{
+    background: #e4f2ea;
+    border-color: #0072bc;
+}
+.btn-square{
+    height: 25px;
+    width: 25px;
+    font-size: 12px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 3px;
+    padding: 0px;
+}
+.btn-square:hover{
+    border: 1px solid #cccccc;
+    color: #e0e0e0;
+}
+.btn-square:active{
+    border: 1px solid #0072bc;
+    color: #ffffff;
+}
+@font-face {
+    font-family: 'Tahoma';
+    src: url('../../assets/font/TahomaRegularfont.ttf');
+  }

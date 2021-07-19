@@ -32,7 +32,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/services/RepositoryFactory.js", "src/services/postRepository.js", "src/services/Repository.js"  ],
   "exclude": [
     "node_modules"
   ]

@@ -1,0 +1,75 @@
+.icon-page-next{
+    background-image: url('../../assets/icon/page-next.png');
+    width: 16px;
+    height: 16px;
+}
+.icon-page-first{
+    background-image: url('../../assets/icon/page-first.png');
+    width: 16px;
+    height: 16px;
+}
+.icon-page-prev{
+    background-image: url('../../assets/icon/page-prev.png');
+    width: 16px;
+    height: 16px;
+}
+.icon-page-last{
+    background-image: url('../../assets/icon/page-last.png');
+    width: 16px;
+    height: 16px;
+}
+.icon-help{
+    background: url('../../assets/icon/IconSprite.png') no-repeat 0 -1600px;
+	width: 16px;
+	height: 15px;
+    margin: 5px;
+}
+.icon-save{
+    background: url('../../assets/icon/IconSprite.png') no-repeat -1px -768px;
+	width: 14px;
+	height: 15px;
+    margin: 5px;
+}
+.icon-saveAdd{
+    background: url('../../assets/icon/IconSprite.png') no-repeat 0 -737px;
+	width: 16px;
+	height: 16px;
+    margin: 5px;
+}
+.icon-cancle{
+    background: url('../../assets/icon/IconSprite.png') no-repeat 0 -1952px;
+	width: 15px;
+	height: 15px;
+    margin: 5px;
+}
+.icon-question{
+    background: url('../../assets/icon/icon-question.png');
+	width: 32px;
+	height: 32px;
+}
+.icon-warning{
+    background: url('../../assets/icon/icon-warning.png');
+	width: 32px;
+	height: 32px;
+}
+.icon-notify{
+    background-image: url('../../assets/icon/globe-americas-solid.svg');
+    background-repeat: no-repeat;
+	width: 32px;
+	height: 32px;
+    color: white;
+}
+.icon-advisory{
+    background-image: url('../../assets/icon/ic_support.svg');
+    background-repeat: no-repeat;
+    background-size: 63px 63px;
+	width: 60px;
+	height: 66px;
+}
+.icon-required{
+    background: url('../../assets/icon/exclamation.png');
+    background-repeat: no-repeat;
+	width: 18px;
+    height: 16px;
+    margin: 0 5px 0 5px;
+}
